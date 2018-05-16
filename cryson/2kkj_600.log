@@ -1,0 +1,55 @@
+   C R Y S O N    Version 2.7  -- 27/07/12 
+ 
+ 
+ -- Program  started  at   16-May-2018   13:46:05--
+ 
+ --------  Real space resolution and grid  -------- 
+ 
+  Maximum order of harmonics ............................ : 15
+  Order of Fibonacci grid ............................... : 17
+  Total number of directions ............................ : 2585
+ 
+ ------------  Reciprocal space grid  -------------
+ 
+   in s = 4*pi*sin(theta)/lambda [1/angstrom] 
+  Maximum scattering angle .............................. : 0.5000
+  Number of angular points .............................. : 100
+ Perdeuteration, chain [A] (0<y<1) ...................... : 0.0
+ D2O fraction in solvent ................................ : 1.000
+ 
+ --- Structural parameters (sizes in angstroms) --- 
+ 
+ PDB file name .......................................... : 2kkj_6.pdb
+  Number of atoms read .................................. : 460
+  Number of discarded hydrogens ......................... : 484
+ Geometric Center:   -0.618   -1.070   -1.078
+ For    4  zero directions radius    1.57 assumed
+ Atomic     Rg   :  15.66       Envelope   Rg      :  16.04    
+ Shape      Rg   :  14.99       Envelope  volume   : 0.1082E+05
+ Shell    volume :  7289.       Envelope  surface  :  1968.    
+ Shell      Rg   :  18.82       Envelope  radius   :  34.34    
+ Shell    width  :  3.000       Envelope  diameter :  57.64    
+ Molecular Weight:  6567.       Dry volume         :  7959.    
+ Displaced volume:  8221.       Average atomic rad.:  1.622    
+ Solvent density :  6.404       Particle contrast  : -3.251    
+ Number of residuals :                59
+ 
+ -- No data fitting, parameters entered manually --
+ 
+ Contrast of the solvation shell ........................ : 0.6404
+ Average atomic radius .................................. : 1.622
+ Excluded Volume ........................................ : 8221.
+ Solvent density ........................................ : 6.404
+ Average atomic volume .................................. : 17.87
+ Radius of gyration from atomic structure
+ Rg ( Atoms - Excluded Volume + Shell ) ................. : 12.97
+ Rg from the slope of net intensity ..................... : 12.49
+  
+ ----------------  Output files  ------------------
+  
+ Coefficients   saved to file 2kkj_600.flm
+ CRYSON data    saved to file 2kkj_600.sav
+Intensities    saved to file 2kkj_600.int
+Net amplitudes saved to file 2kkj_600.alm
+ 
+   C R Y S O N    Version 2.7  -- 27/07/12  ----  terminated at   16-May-2018   13:46:05--
