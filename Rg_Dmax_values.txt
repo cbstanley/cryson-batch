@@ -1,0 +1,14 @@
+Rg = Rg from the slope of net intensity from CRYSON
+Dmax = Envelope diameter from CRYSON
+
+count Rg Dmax
+0 12.19 52.08
+1 11.14 42.53
+2 11.99 50.88
+3 11.89 59.50
+4 12.60 52.49
+5 12.58 56.45
+6 12.49 57.64
+7 11.27 59.66
+8 11.01 48.39
+9 10.44 43.10
