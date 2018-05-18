@@ -8,6 +8,8 @@ See cryson_batch.py
 
 CRYSON program available from:
 https://www.embl-hamburg.de/biosaxs/cryson.html
+
+CRYSON v2.7 used here.
 '''
 
 import os
