@@ -10,6 +10,8 @@ Original pdb available from: https://www.rcsb.org/structure/2kkj
 
 Requires CRYSON program within ATSAS tools (free, registration required).
 Available from: https://www.embl-hamburg.de/biosaxs/cryson.html
+
+CRYSON v2.7 used here.
 '''
 
 import os
@@ -33,7 +35,7 @@ n = 0
 while n < 10:
     name = '2kkj_' + str(n) + '.pdb'
 
-    # Make the text file for inputs into crysol
+    # Make the text file for inputs into cryson (format for v2.7)
     text = ('0 \n'
             + name + '\n'
             + '15 \n'
